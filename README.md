@@ -1,4 +1,4 @@
-# Backend Requirements for [Project Name]
+# App Requirements for [Project Name]
 
 ## Project Overview
 
